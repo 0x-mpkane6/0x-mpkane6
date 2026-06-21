@@ -1,3 +1,3 @@
-## Hi there 👋
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78c21601-a0c1-47e7-935a-1511794e9e70" />
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Nguyen Minh Phuc Khang</h1>
