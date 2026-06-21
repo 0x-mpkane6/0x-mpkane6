@@ -41,6 +41,7 @@
 
 <h2 align="left">🚀 My Projects</h2>
 
+<div align="center">
 <!-- PROJECTS:START -->
 <table>
   <tr>
@@ -69,3 +70,4 @@
   </tr>
 </table>
 <!-- PROJECTS:END -->
+</div>
