@@ -51,30 +51,34 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/0x-mpkane6/catarot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=catarot&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+      <a href="https://github.com/0x-mpkane6/pops-rl2-rethinking">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=pops-rl2-rethinking&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
   </tr>
   <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/0x-mpkane6/catarot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=catarot&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+      </a>
+    </td>
     <td width="50%" align="center">
       <a href="https://github.com/0x-mpkane6/HTB-Starting-Point">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=HTB-Starting-Point&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/0x-mpkane6/Writeup-UTCTF-2026">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=Writeup-UTCTF-2026&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/0x-mpkane6/Writeup-UmassCTF-2026">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=Writeup-UmassCTF-2026&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
       </a>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
