@@ -22,12 +22,6 @@
   </table>
 </div>
 
-<h2 align="left">🔥 My Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x-mpkane6&show_icons=true&theme=github_dark&hide_border=false&border_color=58a6ff" />
-</div>
-
 <h2 align="left">💻 My Contributions</h2>
 
 <p align="center">
@@ -37,49 +31,5 @@
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/0x-mpkane6/0x-mpkane6/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
-
-<h2 align="left">🚀 My Projects</h2>
-
-<div align="center">
-<!-- PROJECTS:START -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/0x-mpkane6/Nhom06">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=Nhom06&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/0x-mpkane6/pops-rl2-rethinking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=pops-rl2-rethinking&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/0x-mpkane6/task-watch-monitor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=task-watch-monitor&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/0x-mpkane6/NT204.R11.ANTN_NguyenMinhPhucKhang_24520758">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=NT204.R11.ANTN_NguyenMinhPhucKhang_24520758&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/0x-mpkane6/dns-poisoning-lab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=dns-poisoning-lab&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/0x-mpkane6/catarot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x-mpkane6&repo=catarot&theme=github_dark&hide_border=false&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-      </a>
-    </td>
-  </tr>
-</table>
 <!-- PROJECTS:END -->
 </div>
