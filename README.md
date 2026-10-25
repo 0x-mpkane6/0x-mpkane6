@@ -4,9 +4,7 @@
 
 <h2 align="left">👤 About Me</h2>
 
-- I'm an Information Security student in the Honors Program at UIT, VNU-HCM.
-- I'm interested in malware analysis, security research, and low-level system behavior.
-- I'm currently researching the application of LLMs in cybersecurity.
+I'm an **Information Security student** in the **Honors Program at UIT, VNU-HCM**, with a strong interest in **defensive cybersecurity** and **security research**. My research interests primarily focus on **fileless malware**, **malware analysis**, and **adversarial machine learning**, particularly the application of **Large Language Models (LLMs)** in cybersecurity. 
 
 <h2 align="left">🛠️ My Skills</h2>
 
