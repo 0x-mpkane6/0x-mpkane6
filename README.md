@@ -2,11 +2,11 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Nguyen Minh Phuc Khang</h1>
 
-<h2 align="left">👤 About Me</h2>
+<h2 align="left">About Me</h2>
 
 I'm an **Information Security student** in the **Honors Program at UIT, VNU-HCM**, with a strong interest in **defensive cybersecurity** and **security research**. My research interests primarily focus on **fileless malware**, **malware analysis**, and **adversarial machine learning**, particularly the application of **Large Language Models (LLMs)** in cybersecurity. 
 
-<h2 align="left">🛠️ My Skills</h2>
+<h2 align="left">My Skills</h2>
 
 <div align="center">
   <table>
@@ -20,7 +20,7 @@ I'm an **Information Security student** in the **Honors Program at UIT, VNU-HCM*
   </table>
 </div>
 
-<h2 align="left">💻 My Contributions</h2>
+<h2 align="left">My Contributions</h2>
 
 <p align="center">
   <picture>
