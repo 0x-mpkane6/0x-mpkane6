@@ -21,10 +21,27 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Push pacman to output branch
+      - name: Push pacman to output branch (attempt 1)
+        id: push_pacman_attempt_1
+        continue-on-error: true
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push pacman to output branch (attempt 2)
+        id: push_pacman_attempt_2
+        if: ${{ steps.push_pacman_attempt_1.outcome == 'failure' }}
+        continue-on-error: true
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fail if pacman deploy failed twice
+        if: ${{ steps.push_pacman_attempt_1.outcome == 'failure' && steps.push_pacman_attempt_2.outcome == 'failure' }}
+        run: exit 1
