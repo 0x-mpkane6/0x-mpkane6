@@ -29,5 +29,3 @@ I'm an **Information Security student** in the **Honors Program at UIT, VNU-HCM*
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/0x-mpkane6/0x-mpkane6/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-<!-- PROJECTS:END -->
-</div>
