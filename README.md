@@ -13,7 +13,7 @@ I'm an **Information Security student** in the **Honors Program at UIT, VNU-HCM*
     <tr>
       <td>
         <p align="left">
-          <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,bash,powershell,react,docker,git,github,linux&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,powershell,bash,linux,docker,git,github&theme=dark" />
         </p>
       </td>
     </tr>
